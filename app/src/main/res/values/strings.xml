@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Article_NYT</string>
+
+    <string-array name="spinner_sort">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Relevance</item>
+    </string-array>
+</resources>
