@@ -62,15 +62,6 @@ class MainActivity : AppCompatActivity(), MainInterface.View, FilterDialog.OnInp
         initRecycleView()
     }
 
-    override fun onPause() {
-        super.onPause()
-    }
-
-
-    override fun onResume() {
-        super.onResume()
-    }
-
     private fun articleItemClicked(doc : Docs?){
         val detailIntent = Intent(this, WebViewActivity::class.java)
         detailIntent.putExtra(baseconst.DETAIL_KEY, doc?.web_url)

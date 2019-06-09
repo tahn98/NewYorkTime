@@ -15,7 +15,7 @@
         <activity android:name=".feature.WebView.WebViewActivity"></activity>
         <activity
             android:name=".feature.Main.MainActivity"
-            android:label="NEW YORK TIME NEWS">
+            android:label="NEW YORK TIME">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
