@@ -1,4 +1,4 @@
-## Description 
+F## Description 
 Building a news article searching application powered by the New York Times Search API.
 
 ## Design Pattern
@@ -14,7 +14,9 @@ Using MVP
 - For different news articles that only have text or have text with thumbnails, use Heterogenous Layouts with RecyclerView.
 
 ## Mockup
-![MainActivity](https://user-images.githubusercontent.com/38346869/59198709-94eb3380-8bbe-11e9-84fa-32bb61335c57.PNG)
+![MainActivity](https://user-images.githubusercontent.com/38346869/59287721-7196b600-8c9c-11e9-9c75-42baf6415236.PNG)
+![Filter](https://user-images.githubusercontent.com/38346869/59287723-722f4c80-8c9c-11e9-9ef5-b295dd62695c.PNG)
+![Read](https://user-images.githubusercontent.com/38346869/59287721-7196b600-8c9c-11e9-9c75-42baf6415236.PNG)
 
 ## Library 
 - Glide
