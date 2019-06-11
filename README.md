@@ -14,7 +14,7 @@ Using MVP
 - For different news articles that only have text or have text with thumbnails, use Heterogenous Layouts with RecyclerView.
 
 ## Mockup
-![MainActivity](https://user-images.githubusercontent.com/38346869/59287722-7196b600-8c9c-11e9-9742-ae42c9f17ed3.PNG){ width=50% }
+![MainActivity](https://user-images.githubusercontent.com/38346869/59287722-7196b600-8c9c-11e9-9742-ae42c9f17ed3.PNG =250x250)
 ![Filter](https://user-images.githubusercontent.com/38346869/59287723-722f4c80-8c9c-11e9-9ef5-b295dd62695c.PNG){ width=50% }
 ![Read](https://user-images.githubusercontent.com/38346869/59287721-7196b600-8c9c-11e9-9c75-42baf6415236.PNG){ width=50% }
 
