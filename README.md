@@ -1,4 +1,4 @@
-F## Description 
+## Description 
 Building a news article searching application powered by the New York Times Search API.
 
 ## Design Pattern
